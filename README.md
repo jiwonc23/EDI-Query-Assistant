@@ -2,6 +2,8 @@
 
 RAG architecture in Phase I is finished. Phase II will be enhanced with Agentic AI to handle advanced analysis service with AutoGen and Magentic-One. Of course, gpt-4o might be replaced with DeekSeek R1 after evaluating the performance.
  
+![RAG Architecture](RAG_architecture.gif)
+
 Here’s how our RAG architecture delivers smarter insights:
  
 RAG Architecture Overview
@@ -31,3 +33,5 @@ TODO:
 - Prompt Engineering for delivering more insights from retrieved data.
 - Evaluation for latest model such as o3-mini and R1.
 - Enhancing training CLU model for more intents and entities to cover further query requiring analysed report.
+
+[def]: ./RAG_architecture.gif
